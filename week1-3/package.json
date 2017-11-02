@@ -1,0 +1,19 @@
+{
+  "name": "wtmjs_hw",
+  "version": "1.0.0",
+  "description": "javascript course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliaArt/wtmjs.git"
+  },
+  "author": "Yuliya Artsiomishyna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuliaArt/wtmjs/issues"
+  },
+  "homepage": "https://github.com/JuliaArt/wtmjs#readme"
+}
